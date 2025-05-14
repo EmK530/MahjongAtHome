@@ -1,9 +1,14 @@
 # MahjongAtHome
 This project is currently closed-source, come back later.
 
+## Current status
+- Boots to main menu, data saves but game does not acknowledge it, could be from lack of playing a full game<br>
+- Any gamemode causes Network Malfunction 5-2600-0000 after failed connections to /gget<br>
+- Gacha button is greyed out, fixing it is currently not prioritized but rather making a CPU game work.
+
+## Implemented endpoints
 The following list of endpoints implemented does not indicate a progress to completion,<br>
 for a while these endpoints may just be implemented as stubs.
-#### Implemented endpoints
 - appli_boot ❌
 - appli_info ✅
 - chk_tabooword ✅
