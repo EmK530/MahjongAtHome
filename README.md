@@ -1,5 +1,5 @@
 # MahjongAtHome
-This project has not officially started yet, come back later.
+This project is currently closed-source, come back later.
 
 The following list of endpoints implemented does not indicate a progress to completion,<br>
 for a while these endpoints may just be implemented as stubs.
