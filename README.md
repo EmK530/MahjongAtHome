@@ -1,5 +1,5 @@
 # MahjongAtHome
-Recreation of the base API for Mahjong Fight Girl.<br>
+Recreation of the main server for Mahjong Fight Girl.<br>
 This will be open-sourced when CPU games are functional.
 
 ## How to test
