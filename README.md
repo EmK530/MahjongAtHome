@@ -1,5 +1,6 @@
 # MahjongAtHome
-Recreation of the base API for Mahjong Fight Girl
+Recreation of the base API for Mahjong Fight Girl.<br>
+This will be open-sourced when CPU games are functional.
 
 ## Current status
 - Boots to main menu, data saves but game does not acknowledge it, could be from lack of playing a full game<br>
