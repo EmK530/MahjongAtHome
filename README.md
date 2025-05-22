@@ -9,13 +9,15 @@ This does not manage the game but rather point you to my testing server.<br>
 
 ## Current status
 - Boots to main menu, data saves but game does not acknowledge it, could be from lack of playing a full game.<br>
-- Only CPU games are allowed at the moment, gets stuck after the casting intro.<br>
+- Only CPU games are allowed at the moment, gets stuck after dealing the hands.<br>
 - Gacha button is greyed out, fixing it is currently not prioritized but rather making a CPU game work.
 
 ## Testing server changelog
 
 #### 2025-05-22
-Added a proper handler for game commands, the server now sends a valid KyokuStart to the player.
+Added a proper handler for game commands, the server now sends a valid KyokuStart to the player.<br>
+Added support for command "Tsumo", letting the first player draw a tile which makes the hands show up.<br>
+Leaving at this stage is now possible, but will cause a network malfunction.
 
 #### [2025-05-15](https://youtu.be/oWbFGxj97IM)
 Initial release.
