@@ -13,6 +13,7 @@ This does not manage the game but rather point you to my testing server.<br>
 - Gacha button is greyed out, fixing it is currently not prioritized but rather making a CPU game work.
 
 ## Testing server changelog
+To view preview videos, ask me for permission.
 
 #### [2025-05-24](https://youtu.be/FsT5J7rpLgU)
 New config system, CPUs no longer use gacha characters.<br>
