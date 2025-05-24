@@ -14,6 +14,10 @@ This does not manage the game but rather point you to my testing server.<br>
 
 ## Testing server changelog
 
+#### [2025-05-24](https://youtu.be/FsT5J7rpLgU)
+New config system, CPUs no longer use gacha characters.<br>
+Added stub for TsumoChoices letting the player discard tiles but causes a network malfunction due to lack of `/gpost` support.
+
 #### 2025-05-22
 Added a proper handler for game commands, the server now sends a valid KyokuStart to the player.<br>
 Added support for command "Tsumo", letting the first player draw a tile which makes the hands show up.<br>
